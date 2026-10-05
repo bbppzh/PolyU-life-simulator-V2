@@ -1,5 +1,7 @@
 # PolyU Life Simulator V2
 
+**Current terms: personal play only; academic and commercial reuse require prior written permission.** See [LICENSE](LICENSE). This is a custom restricted license, not an open-source license. Earlier MIT releases and material retain their MIT permissions; see [LEGACY-MIT-NOTICE.txt](LEGACY-MIT-NOTICE.txt). Third-party licenses and statutory exceptions remain intact.
+
 Pixel-art campus and retro game interface. An independent, unofficial student game about fourteen weeks of university life.
 
 Play: https://bbppzh.github.io/PolyU-life-simulator-V2/
@@ -10,6 +12,6 @@ Events, prices and grades are fictional. This is not an official university serv
 
 ## License
 
-MIT License, Copyright (c) 2026 bbppzh. Preserve copyright and license notices when redistributing.
+**Current terms: personal play only; academic and commercial reuse require prior written permission.** See [LICENSE](LICENSE). This is a custom restricted license, not an open-source license. Earlier MIT releases and material retain their MIT permissions; see [LEGACY-MIT-NOTICE.txt](LEGACY-MIT-NOTICE.txt). Third-party licenses and statutory exceptions remain intact.
 
 Pixelify Sans is embedded under the SIL Open Font License, preserved in the HTML and `FONT-LICENSE.txt`. Campus art is an AI-generated fictional interpretation.
